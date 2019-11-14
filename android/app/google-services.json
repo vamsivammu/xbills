@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "489289496203",
+    "firebase_url": "https://officially-singles.firebaseio.com",
+    "project_id": "officially-singles",
+    "storage_bucket": "officially-singles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489289496203:android:38c4dfb0733a36be",
+        "android_client_info": {
+          "package_name": "com.officiallysingles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489289496203-tdpnq7aso0v76l5rq4c867qm0fae97o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEAlMSLxYDzxY3rEAavzxqd_6i2LLczv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489289496203-tdpnq7aso0v76l5rq4c867qm0fae97o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489289496203-urj6pp49d7ga2ett01778d580u6ru969.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.officiallysingles"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489289496203:android:f89adb3463c1be57",
+        "android_client_info": {
+          "package_name": "com.osapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489289496203-tdpnq7aso0v76l5rq4c867qm0fae97o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEAlMSLxYDzxY3rEAavzxqd_6i2LLczv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489289496203-tdpnq7aso0v76l5rq4c867qm0fae97o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489289496203-urj6pp49d7ga2ett01778d580u6ru969.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.officiallysingles"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489289496203:android:d80fe39edc45a40c",
+        "android_client_info": {
+          "package_name": "com.xbillsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489289496203-tdpnq7aso0v76l5rq4c867qm0fae97o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEAlMSLxYDzxY3rEAavzxqd_6i2LLczv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489289496203-tdpnq7aso0v76l5rq4c867qm0fae97o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489289496203-urj6pp49d7ga2ett01778d580u6ru969.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.officiallysingles"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
