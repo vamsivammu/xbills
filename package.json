@@ -13,7 +13,7 @@
     "jetifier": "^1.6.1",
     "moment": "^2.24.0",
     "react": "16.8.6",
-    "react-native": "0.60.0",
+    "react-native": "0.62.3",
     "react-native-camera": "^2.11.0",
     "react-native-datepicker": "^1.7.2",
     "react-native-firebase": "^5.5.4",
